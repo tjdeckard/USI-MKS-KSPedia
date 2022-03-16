@@ -1,17 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
-<KSPedia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="mkskspedia" CreatedTime="-8585542067186364040">
-  <Categories />
+<KSPedia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="mkskspedia" CreatedTime="-8585542046699111133">
+  <Categories>
+    <Category Name="Umbra Space Industries">
+      <Title>Umbra Space Industries</Title>
+      <TitleScreen>0 - 0 MKS </TitleScreen>
+      <Screens />
+      <Subcategories>
+        <Subcategory Name="Core Concepts">
+          <Title>Core Concepts</Title>
+          <TitleScreen>1 - 0 CoreConcepts</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Ranger Series">
+          <Title>Ranger Series</Title>
+          <TitleScreen>2 - 0 Ranger Series Simple</TitleScreen>
+          <Screens>
+            <Screen>2 - 1 Ranger Part List</Screen>
+            <Screen>2 - 2 Ranger Inflatables</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Duna Series">
+          <Title>Duna Series</Title>
+          <TitleScreen>3 - 0 Duna Series</TitleScreen>
+          <Screens>
+            <Screen>3 - 1 Duna Parts</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Tundra Series">
+          <Title>Tundra Series</Title>
+          <TitleScreen>4 - 0 Tundra Series</TitleScreen>
+          <Screens>
+            <Screen>4 - 1 Tundra Modules</Screen>
+            <Screen>4 - 2 Tundra Parts</Screen>
+            <Screen>4 - 3 Tundra Inflatables</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Base Construction">
+          <Title>Base Construction</Title>
+          <TitleScreen>5 - 0 Base Construction</TitleScreen>
+          <Screens>
+            <Screen>5 - 1 Konstruction Parts0</Screen>
+            <Screen>5 - 2 Landing Parts</Screen>
+            <Screen>5 - 3 Connecting Parts</Screen>
+            <Screen>5 - 4 Construction Ports</Screen>
+            <Screen>5 - 5 Servos &amp; Magnets</Screen>
+            <Screen>5 - 5a Konstruction Examples</Screen>
+            <Screen>5 - 6 Base Locations</Screen>
+            <Screen>5 - 61 Base Locations Cont.</Screen>
+            <Screen>5 - 6a Base Examples</Screen>
+            <Screen>5 - 7 Advanced - KIS</Screen>
+            <Screen>5 - 9 Ground Tether - Base Stabilizer</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Mining and Manufacturing">
+          <Title>Mining and Manufacturing</Title>
+          <TitleScreen>6 - 0 Mining &amp; Manufacturing </TitleScreen>
+          <Screens>
+            <Screen>6 - 1 Scanning</Screen>
+            <Screen>6 - 2 Extractable Resources</Screen>
+            <Screen>6 - 3 Resource Extraction</Screen>
+            <Screen>6 - 4 Resource Processing</Screen>
+            <Screen>6 - 5 Parts &amp; Supplies Manufacturing</Screen>
+            <Screen>6 - 6 Advanced - Career Funds</Screen>
+            <Screen>6 - 7 Active Resource Harvesting</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Logistics">
+          <Title>Logistics</Title>
+          <TitleScreen>7 - 0 Logistics </TitleScreen>
+          <Screens>
+            <Screen>7 - 1 Logistics </Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Habitation">
+          <Title>Habitation</Title>
+          <TitleScreen>8 - 0 Habitation</TitleScreen>
+          <Screens>
+            <Screen>8 - 1 Habitation Parts</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Life Support">
+          <Title>Life Support</Title>
+          <TitleScreen>9 - 0 Life Support </TitleScreen>
+          <Screens>
+            <Screen>9 - 1 Recyclers</Screen>
+            <Screen>9 - 2 Converters</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Rovers">
+          <Title>Rovers</Title>
+          <TitleScreen>10 - 0 Rovers</TitleScreen>
+          <Screens>
+            <Screen>10 - 1 Akita</Screen>
+            <Screen>10 - 2 Karibou</Screen>
+            <Screen>10 - 3 Malumte </Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Kontainers">
+          <Title>Kontainers</Title>
+          <TitleScreen>12 - 0 Kontainers</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Power">
+          <Title>Power</Title>
+          <TitleScreen>13 - 0 Power</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Efficiency and Load">
+          <Title>Efficiency and Load</Title>
+          <TitleScreen>14 - 0 Efficiency &amp; Load</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Crew Training">
+          <Title>Crew Training</Title>
+          <TitleScreen>15 - 0 Crew Training</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Med Bay and Colony Supplies">
+          <Title>Med Bay and Colony Supplies</Title>
+          <TitleScreen>16 – 0 Med Bay &amp; Colony Supplies</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Kolonization">
+          <Title>Kolonization</Title>
+          <TitleScreen>17 - 0 Kolonization</TitleScreen>
+          <Screens>
+            <Screen>17 - 1 Kolonization Dashboard</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Archived">
+          <Title>Archived</Title>
+          <TitleScreen />
+          <Screens>
+            <Screen>11 - 1 ExtraPlanetaryLaunchPad Basics</Screen>
+            <Screen>11 - 2 ExtraPlanetaryLaunchPad Parts</Screen>
+          </Screens>
+          <Subcategories />
+        </Subcategory>
+      </Subcategories>
+    </Category>
+  </Categories>
   <Screens>
     <Screen Name="9 - 2 Converters">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/9 - 2 Converters.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
           <Text>Converters</Text>
         </Text>
         <Text Name="Heading (1)">
-          <Text>'Ranger' Agricultural Module</Text>
+          <Text>
+'Ranger' Agricultural Module</Text>
         </Text>
         <Text Name="Heading (2)">
           <Text>'Ranger' Agricultural Module
@@ -84,6 +241,7 @@ USI-LS Nom-O-Matic 5000</Text>
     <Screen Name="9 - 1 Recyclers">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/9 - 1 Recyclers.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -125,6 +283,7 @@ Recycler: 79% Crew: 3</Text>
     <Screen Name="9 - 0 Life Support ">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/9 - 0 Life Support .prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -139,7 +298,8 @@ ElectricCharge - kerbals need 0.01 EC/s
 Mulch - Kerbals produce this as waste when
 they consume Supplies
 Fertilizer - greenhouses can convert a combination
-of Mulch and Fertilizer into Supplies</Text>
+of Mulch and Fertilizer into Supplies
+</Text>
         </Text>
         <Text Name="Heading (2)">
           <Text>Consumption
@@ -168,6 +328,7 @@ Also note the rate at which Converters produce Supplies. Multiple Converters may
     <Screen Name="8 - 1 Habitation Parts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/8 - 1 Habitation Parts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
@@ -200,7 +361,8 @@ Crew Capacity: 6
 </Text>
         </Text>
         <Text Name="Text (6)">
-          <Text>'Tundra' Habitation Ring
+          <Text>
+'Tundra' Habitation Ring
 
 Habitation Modes: 
 Hab Quarters habmonths:497.5 multi:0 affect:0
@@ -235,13 +397,15 @@ Crew Capacity: 4</Text>
     <Screen Name="8 - 0 Habitation">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/8 - 0 Habitation.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
           <Text>Habitation </Text>
         </Text>
         <Text Name="Text (2)">
-          <Text>All crewed modules provide a certain amount of Habitation, measured in "Kerbal-Months" (30 six-hour Kerbin-Days), equal to the number of seats on board. For example, the Mk1 Command Pod provides 1 kerbal-month of Habitation. More specialized parts may provide additional Habitation. For example, the Hitchhiker Can provides 660 kerbal-days of Habitation (in addition to the 28 kerbal-days provided by its 4 seats). Pilots and Scouts are immune to habitation values.
+          <Text>All crewed modules provide a certain amount of Habitation, measured in "Kerbal-Months" (30 six-hour Kerbin-Days), equal to the number of seats on board. For example, the Mk1 Command Pod provides 1 kerbal-month of Habitation. More specialized parts may provide additional Habitation. For example, the Hitchhiker Can provides 660 kerbal-days of Habitation (in addition to the 28 kerbal-days provided by its 4 seats).
+ Pilots and Scouts are immune to habitation values.
 
 Habitat Multipliers
 
@@ -252,7 +416,8 @@ Habitation and Homesickness
 Kerbals can only stay in a confined space away from home for so long before bad things happen. Each kerbal has two running clocks (displayed for each active kerbal in the USI-LS window) which determine this time limit.
 
 Hab time- how long the kerbal will be happy on his current vessel
-Home time- how long the kerbal will be happy before getting homesick for Kerbin.
+Home time- how long the kerbal will be happy before getting homesick for Kerbin
+.
 
 Hab time is reset every time a kerbal enters a new vessel. It begins with the vessel's provided Habitatation time (divided by the number of kerbals present) and counts down to zero. The concept of Hab time is how comfortable your kerbal is with his current vessel. He can't live in tight spaces for long, and he gets tired of staying in the same place.
 
@@ -266,6 +431,7 @@ For example, imagine we have a rocket (Habitation = 30 days) with an attached la
     <Screen Name="7 - 1 Logistics ">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/7 - 1 Logistics .prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (2)">
@@ -284,7 +450,8 @@ For example, imagine we have a rocket (Habitation = 30 days) with an attached la
           <Text>When supplies are low, land a full Kontainer nearby.</Text>
         </Text>
         <Text Name="Text (14)">
-          <Text>The Kerbitat(Logistics Consumer) will initate a ‘pull request’ and supplies willbe transfered from the Kontainer into the Kerbitat.</Text>
+          <Text>The Kerbitat(Logistics Consumer) will initate a ‘pull request’ and supplies will
+be transfered from the Kontainer into the Kerbitat.</Text>
         </Text>
         <Text Name="Text (15)">
           <Text>Supplies</Text>
@@ -313,10 +480,13 @@ Ore</Text>
           <Text>Metals</Text>
         </Text>
         <Text Name="Text (23)">
-          <Text>Here we have a mining base with storage and a drill for MetallicOre.</Text>
+          <Text>Here we have a mining base with 
+storage and a drill for MetallicOre.</Text>
         </Text>
         <Text Name="Text (24)">
-          <Text>Here we have a refining base. We have storage for both the MetallicOre we are going to refine and for the metal we are going to produce.</Text>
+          <Text>Here we have a refining base. We have storage for both 
+the MetallicOre we are going to refine and for the metal 
+we are going to produce.</Text>
         </Text>
         <Text Name="Text (25)">
           <Text>Requirements: 
@@ -326,14 +496,18 @@ Storage for the MetallicOre</Text>
         </Text>
         <Text Name="Text (26)">
           <Text>Requirements: 
-Kontainer must have USIModule Resource Warehouse
+Kontainer must have USI
+Module Resource Warehouse
 Storage for the MetallicOre</Text>
         </Text>
         <Text Name="Text (27)">
           <Text>Metals</Text>
         </Text>
         <Text Name="Text (28)">
-          <Text>The Refinery(Logistics Consumer) will initiate a ‘pull request’ and MetallicOre will be transfered from the Mining Base into the Kerbitat.</Text>
+          <Text>The Refinery(Logistics Consumer) will
+ initiate a ‘pull request’ and MetallicOre 
+will be transfered from the Mining 
+Base into the Kerbitat.</Text>
         </Text>
         <Text Name="Text (29)">
           <Text>Metallic
@@ -348,7 +522,8 @@ Ore</Text>
         </Text>
         <Text Name="Text (32)">
           <Text>Requirements: 
-Kontainer must have USIModule Resource Warehouse
+Kontainer must have USI
+Module Resource Warehouse
 </Text>
         </Text>
         <Text Name="Text (33)">
@@ -379,6 +554,7 @@ Storage for the resource being transferred is required on both vessels.
     <Screen Name="7 - 0 Logistics ">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/7 - 0 Logistics .prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (2)">
@@ -403,7 +579,8 @@ Example: If your base is running out of life support, just drop a box of stuff n
           <Text>Resource Distribution (2 km)</Text>
         </Text>
         <Text Name="Text (5)">
-          <Text>Sometimes you need stuff from far away. Even without dedicated storage of their own, these vessels can relay resources between parts within range so long as they are piloted. Qualifying rover parts include the Karibou Expedition Rover cockpit, and the surface Pioneer Module.</Text>
+          <Text>Sometimes you need stuff from far away. Even without dedicated storage of their own, these vessels can relay resources between parts within range so long as they are piloted. Qualifying rover parts include the Karibou Expedition Rover cockpit, and the surface Pioneer Module.
+</Text>
         </Text>
         <Text Name="Text (6)">
           <Text>Example: Your mining rig is over a kilometer away from your processing plant. Just toss a qualifying rover in range of both, and resources will flow automatically to the ship that needs them. You must have available storage for the resource you want to pull.</Text>
@@ -426,6 +603,7 @@ Local Logistics:  Resources may now be manually transferred between any two craf
     <Screen Name="6 - 7 Active Resource Harvesting">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 7 Active Resource Harvesting.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -457,6 +635,7 @@ These craft files are available for download on the MKS Github Wiki</Text>
     <Screen Name="6 - 6 Advanced - Career Funds">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 6 Advanced - Career Funds.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -471,6 +650,7 @@ These craft files are available for download on the MKS Github Wiki</Text>
     <Screen Name="6 - 5 Parts &amp; Supplies Manufacturing">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 5 Parts &amp; Supplies Manufacturing.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -535,6 +715,7 @@ Dirt, Water, Fertilizer, Organics → Organics</Text>
     <Screen Name="6 - 4 Resource Processing">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 4 Resource Processing.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -625,6 +806,7 @@ DepletedFuel → EnrichedUranium</Text>
     <Screen Name="6 - 3 Resource Extraction">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 3 Resource Extraction.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -672,6 +854,7 @@ Requires to switch
     <Screen Name="6 - 2 Extractable Resources">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 2 Extractable Resources.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -687,7 +870,8 @@ Requires to switch
           <Text>Dirt
 Gypsum
 Minerals
-Substrate</Text>
+Substrate
+</Text>
         </Text>
         <Text Name="Heading (4)">
           <Text>Extractable Resources</Text>
@@ -696,7 +880,8 @@ Substrate</Text>
           <Text>MetallicOre
 Water
 Hydrates
-Uraninite</Text>
+Uraninite
+</Text>
         </Text>
         <Text Name="Heading (6)">
           <Text>RareMetals
@@ -709,6 +894,7 @@ Silicates</Text>
     <Screen Name="6 - 1 Scanning">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 1 Scanning.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -758,6 +944,7 @@ Step 6</Text>
     <Screen Name="6 - 0 Mining &amp; Manufacturing ">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/6 - 0 Mining &amp; Manufacturing .prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -865,6 +1052,7 @@ A raw material that can be mined, or produced from Hydrates. Used to grow Suppli
     <Screen Name="5 - 9 Ground Tether - Base Stabilizer">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 9 Ground Tether - Base Stabilizer.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (1)">
@@ -885,6 +1073,7 @@ Ground tether is provided on over 50 different MKS parts. If you’ve built and 
     <Screen Name="5 - 7 Advanced - KIS">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 7 Advanced - KIS.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -923,6 +1112,7 @@ See the KIS manual contained as an available part the VAB and SPH for more info.
     <Screen Name="5 - 6a Base Examples">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 6a Base Examples.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -956,6 +1146,7 @@ See the KIS manual contained as an available part the VAB and SPH for more info.
     <Screen Name="5 - 61 Base Locations Cont.">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 61 Base Locations Cont..prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -971,7 +1162,8 @@ The stock system uses the same 3 parts to accomplish a full analysis of resource
 Simply put them in an acceptable orbit of the planetary body you wish to scan and then select the scanner on the vessel and cycle through which resource to display.
 It will offer every resource it is capable of scanning for acess this information using Kerbnet.
 
-The M700 is used to give a general idea of what resources are present, while the M4435 can also be used while landed and is used to give a slightly more detailed idea of how much is present. To get more exact readings on how high of a concentration of a resource is actually present, a Surface scanner such as the stock Surface Scanning Module must be used while landed. The stock surface scanner now shows data for all relevant resources - enjoy prospecting!
+The M700 is used to give a general idea of what resources are present, while the M4435 can also be used while landed and is used to give a slightly more detailed idea of how much is present. To get more exact readings on how high of a concentration of a resource is actually present, a Surface scanner such as the stock Surface Scanning Module must be used while landed.
+ The stock surface scanner now shows data for all relevant resources - enjoy prospecting!
 
 UKS also works with SCANsat which offers a more immersive resource scanning experience and more detailed mapping options. Its a slightly more complex method than stock and has a few different options on how it can function.
 
@@ -992,6 +1184,7 @@ Landing near (within 100 meters of) a biome border allows you to use proxy logis
     <Screen Name="5 - 6 Base Locations">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 6 Base Locations.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -1014,6 +1207,7 @@ On the next page is some information on where resources can be found in the envi
     <Screen Name="5 - 5a Konstruction Examples">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 5a Konstruction Examples.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -1040,6 +1234,7 @@ On the next page is some information on where resources can be found in the envi
     <Screen Name="5 - 5 Servos &amp; Magnets">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 5 Servos &amp; Magnets.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -1160,6 +1355,7 @@ See the key below for more information.</Text>
     <Screen Name="5 - 4 Construction Ports">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 4 Construction Ports.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (13)">
@@ -1195,6 +1391,7 @@ The docks can then be 'collapsed' removing both docking ports and re-joining the
     <Screen Name="5 - 3 Connecting Parts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 3 Connecting Parts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (21)">
@@ -1238,6 +1435,7 @@ Provides no Habitation value.</Text>
     <Screen Name="5 - 2 Landing Parts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 2 Landing Parts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (1)">
@@ -1276,6 +1474,7 @@ Provides no Habitation value.</Text>
     <Screen Name="5 - 1 Konstruction Parts0">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 1 Konstruction Parts0.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -1345,6 +1544,7 @@ There is also a magnet added to the Advanced Grabbing Unit.</Text>
     <Screen Name="5 - 0 Base Construction">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/5 - 0 Base Construction.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (1)">
@@ -1366,6 +1566,7 @@ Great for large bases and stations, or building larger vessels in orbit!
     <Screen Name="4 - 3 Tundra Inflatables">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/4 - 3 Tundra Inflatables.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -1441,6 +1642,7 @@ Switching modes requires
     <Screen Name="4 - 2 Tundra Parts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/4 - 2 Tundra Parts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -1500,6 +1702,7 @@ See 'Base Construction for more info . . .</Text>
     <Screen Name="4 - 1 Tundra Modules">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/4 - 1 Tundra Modules.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (2)">
@@ -1619,6 +1822,7 @@ See 'Med Bay &amp; Colony Supplies' for more info. . . </Text>
     <Screen Name="4 - 0 Tundra Series">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/4 - 0 Tundra Series.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -1639,6 +1843,7 @@ Fully self-sustaining bases are not possible without using Tundra Modules.
     <Screen Name="3 - 1 Duna Parts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/3 - 1 Duna Parts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
@@ -1693,6 +1898,7 @@ See 'Power' for more info. . . </Text>
     <Screen Name="3 - 0 Duna Series">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/3 - 0 Duna Series.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (3)">
@@ -1707,6 +1913,7 @@ See 'Power' for more info. . . </Text>
     <Screen Name="2 - 2 Ranger Inflatables">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/2 - 2 Ranger Inflatables.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
@@ -1807,6 +2014,7 @@ No MaterialKits</Text>
     <Screen Name="2 - 1 Ranger Part List">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/2 - 1 Ranger Part List.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
@@ -1927,6 +2135,7 @@ When you just need a small amount of KIS storage.</Text>
     <Screen Name="2 - 0 Ranger Series Simple">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/2 - 0 Ranger Series Simple.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -1943,6 +2152,7 @@ Inflatables will require the appropriate amount of MaterialKits and an engineer 
     <Screen Name="17 - 1 Kolonization Dashboard">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/17 - 1 Kolonization Dashboard.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
@@ -1973,6 +2183,7 @@ You can also now view the status of Planetary Logistics in the same Dashboard.
     <Screen Name="17 - 0 Kolonization">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/17 - 0 Kolonization.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (1)">
@@ -1997,6 +2208,7 @@ Any Kerbal on a planet that has a Kolonization level of 500% and is in a vessel 
     <Screen Name="16 – 0 Med Bay &amp; Colony Supplies">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/16 – 0 Med Bay &amp; Colony Supplies.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text">
@@ -2022,6 +2234,7 @@ When mishaps befall your Kerbals, or when Kerbals become homesick, simply transf
     <Screen Name="15 - 0 Crew Training">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/15 - 0 Crew Training.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (2)">
@@ -2069,6 +2282,7 @@ Note
     <Screen Name="14 - 0 Efficiency &amp; Load">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/14 - 0 Efficiency &amp; Load.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -2093,6 +2307,7 @@ The capacity of machinery in the part is important. With only 50% machinery stor
     <Screen Name="13 - 0 Power">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/13 - 0 Power.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
@@ -2127,7 +2342,8 @@ This module is outfitted to provide long range power distribution, including lar
 750EC/s</Text>
         </Text>
         <Text Name="Heading (7)">
-          <Text>'Tundra' Power Distribution Unit
+          <Text>
+'Tundra' Power Distribution Unit
 This module is outfitted to provide long range power distribution, including large battery stores, and a small nuclear power plant.  Radiators not included.
 1200EC/s</Text>
         </Text>
@@ -2154,6 +2370,7 @@ An external battery pack for your power hungry colony operations!</Text>
     <Screen Name="12 - 0 Kontainers">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/12 - 0 Kontainers.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (2)">
@@ -2168,7 +2385,8 @@ Shipping container for transporting various goods</Text>
 Shipping container for transporting various goods</Text>
         </Text>
         <Text Name="Text (5)">
-          <Text>Kontainer 1.25m, 2.5m, 3.75m &amp; 5m
+          <Text>
+Kontainer 1.25m, 2.5m, 3.75m &amp; 5m
 Shipping container for transporting various goods</Text>
         </Text>
         <Text Name="Text (6)">
@@ -2204,6 +2422,7 @@ Shipping container for transporting various goods</Text>
     <Screen Name="11 - 2 ExtraPlanetaryLaunchPad Parts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/11 - 2 ExtraPlanetaryLaunchPad Parts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (22)">
@@ -2234,6 +2453,7 @@ Designed to be one of the first parts of a long term colony, the Pioneer module 
     <Screen Name="11 - 1 ExtraPlanetaryLaunchPad Basics">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/11 - 1 ExtraPlanetaryLaunchPad Basics.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (22)">
@@ -2266,13 +2486,15 @@ See 'Parts &amp; Supplies Manufacturing' for more info . . . </Text>
     <Screen Name="10 - 3 Malumte ">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/10 - 3 Malumte .prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (22)">
           <Text>Malumte</Text>
         </Text>
         <Text Name="Heading (23)">
-          <Text>The latest in USI's line of exploration rovers, the Malemute is the smaller leaner cousin to the popular Karibou.
+          <Text>
+The latest in USI's line of exploration rovers, the Malemute is the smaller leaner cousin to the popular Karibou.
 
 Fits in the MK-3 Cargo Bay
 Expandable cargo beds
@@ -2304,7 +2526,8 @@ This module features large mounting points for docking ports (not included) that
 A flat, expandable cargo platform.</Text>
         </Text>
         <Text Name="Heading (29)">
-          <Text>Malemute Geology Lab
+          <Text>
+Malemute Geology Lab
 A mobile georesearch lab, with a built in narrow band scanner.</Text>
         </Text>
         <Text Name="Heading (30)">
@@ -2355,6 +2578,7 @@ A ruggedized all terrain wheel, can be stowed vertically when not in use.</Text>
     <Screen Name="10 - 2 Karibou">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/10 - 2 Karibou.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (22)">
@@ -2442,6 +2666,7 @@ A heavy twin VTOL engine designed to aid in landing the Karibou Expedition Rover
     <Screen Name="10 - 1 Akita">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/10 - 1 Akita.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (22)">
@@ -2477,6 +2702,7 @@ A heavy twin VTOL engine designed to aid in landing the Karibou Expedition Rover
     <Screen Name="10 - 0 Rovers">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/10 - 0 Rovers.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading (22)">
@@ -2488,14 +2714,19 @@ A heavy twin VTOL engine designed to aid in landing the Karibou Expedition Rover
     <Screen Name="1 - 0 CoreConcepts">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/1 - 0 CoreConcepts.prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Text (3)">
           <Text>- A Wide Range Of Base Systems Allowing Temporary Habitats Through To Self-Sustaining Colonies
-
+
+
 - Resource Scanning Of Celestial Bodies For Base Planning
 
-- Full Production Chain For Construction, Supplies and Maintenance. Making Self-Sustaining Colonies Not Only Possible But Extremely Rewarding
+
+
+- Full Production Chain For Construction, Supplies and Maintenance. Making Self-Sustaining Colonies Not Only Possible But Extremely Rewarding
+
 
 - Planetary Logistics and Scavenging To Remove Tedious Micro Management Of Colonies</Text>
         </Text>
@@ -2508,12 +2739,14 @@ A heavy twin VTOL engine designed to aid in landing the Karibou Expedition Rover
     <Screen Name="0 - 0 MKS ">
       <BundleName>mkskspedia</BundleName>
       <AssetPath>Assets/Pages/0 - 0 MKS .prefab</AssetPath>
+      <Title />
       <Background />
       <Text>
         <Text Name="Heading">
           <Text>Modular Kolonization 
 Systems
-- MKS -</Text>
+
+- MKS -</Text>
         </Text>
         <Text Name="Text (2)">
           <Text>Welcome to the wide and wonderful worlds of Umbra Space Industries' latest venture. A world leader in corrugated paper products, Umbra Space Industries is now applying their formidable boxing and packaging skills to their latest product – USI Modular Kolonization Systems! 
